@@ -1,0 +1,22 @@
+{
+	"ClangFormat":
+	{
+		"format_on_save": true
+	},
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 11,
+	"format_on_save": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

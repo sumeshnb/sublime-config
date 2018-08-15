@@ -1,0 +1,16 @@
+{
+     "common_flags": [
+         "-I/usr/include/c++/7",
+         "-I/usr/include/",
+         "-I/usr/include/boost",
+         "-I/usr/include/clang/6.0/include/",
+     ],
+     "cpp_flags" : [
+         "-std=c++17",
+         "-Wall",
+     ],
+     "hide_default_completions" : true,
+     "show_type_info": true,
+     "show_type_body": true,
+     "easy_clang_complete_verbose" : true,
+}
